@@ -15,6 +15,7 @@ body {
     animation: bg-scrolling-reverse .92s linear infinite;
     line-height: 1.5;
     font-size: 100%;
+    width: 100%;
 }
 
 #logo {
@@ -143,6 +144,7 @@ textarea {
     grid-template-rows: auto 1fr auto;
     grid-gap: 0.2rem; 
     min-height: 100vh;
+    width: 100%;
 }
 
 .aside {
