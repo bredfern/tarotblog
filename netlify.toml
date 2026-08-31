@@ -1,0 +1,12 @@
+[build]
+publish = "public"
+command = "bash scripts/zola-build.sh"
+
+[build.environment]
+ZOLA_VERSION = "0.23.4"
+
+[context.deploy-preview]
+command = "bash scripts/zola-build.sh --base-url $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+command = "bash scripts/zola-build.sh --base-url $DEPLOY_PRIME_URL"
