@@ -171,7 +171,7 @@ nav {
 main {
     grid-area: content;
     height: auto;
-    max-width: 30rem;
+    width: 100%;
     padding: .6rem;
 }
 
