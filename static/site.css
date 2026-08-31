@@ -187,7 +187,7 @@ footer {
 }
 
 /* Fixed broken media query block syntax */
-@media (max-width: 400px) {
+@media (max-width: 600px) {
     .container {
         grid-template-areas: 
             "header" 
