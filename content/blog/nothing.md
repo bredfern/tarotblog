@@ -1,179 +1,28 @@
----
-title: "Nothing"
-date: 2026-08-25
-categories: 
-  - "poetry"
-coverImage: "IMG_20260809_095212281_HDR-scaled-1.jpg"
----
++++
+title = "Nothing"
+date = 2025-01-27
++++
 
-11/5/90
+I saw the old spider On the line today Weaving that web Waiting for food
 
-There's nothing
+No flies today, today is not the same
 
-To do here
+Loads of nothing today and the spider passed away in its empty web
 
-Sh\_t gets stuck
+I saw the old spider On the line today Weaving that web Waiting for food
 
-To my shoes
+No flies today, today is not the same
 
-This soil not
+Loads of nothing today and the spider passed away in its empty web
 
-mixed with
+I saw the old spider On the line today Weaving that web Waiting for food
 
-The ash of
+No flies today, today is not the same
 
-My ancestors
+Loads of nothing today and the spider passed away in its empty web
 
-It was time
+I saw the old spider On the line today Weaving that web Waiting for food
 
-To begin, you
+No flies today, today is not the same
 
-can't package
-
-That, give it
-
-Back, f\_ck
-
-Off, sorry.
-
-An Ode to Bruce Lee
-
-and other stories
-
-I coughed twice —
-
-then remember.
-
-When Arnold was
-
-a boy his father gave
-
-him a road-cone. He
-
-said:
-
-"I've got something
-
-to show you. Come."
-
-He took his hands
-
-out of his pockets
-
-and opened the door
-
-for his boy.
-
-"Look," he said
-
-"there, by the car!"
-
-It was a red, shiny
-
-road-cone. Maybe it
-
-was a bit scratched and
-
-scraped, but it was
-
-practicly new. Little Arnold's
-
-eyes became bright and
-
-greedy.
-
-"I ran it over with
-
-my car this afternoon.
-
-I drove with it under
-
-for two and one-half
-
-hours, all the way
-
-home. You can have it
-
-if you want."
-
-Little Arnold ran up to
-
-the cone. He sniffed it
-
-with his little brown
-
-nose, and grabbed it
-
-with his little brown
-
-hands,
-
-"Daddy," he said,
-
-"This plastic is so
-
-soft and rubbery,"
-
-He didn't have to
-
-say thank you, he ran
-
-inside instead; a new toy.
-
-Lemmy spat.
-
-He watched the flem
-
-spatter against the sidewalk
-
-and sat down on the
-
-front stoop of the house.
-
-Dr. Parsons walked
-
-by.
-
-"Hello Dr. Parsons," said
-
-Lemmy.
-
-"Hello Lemmy," said
-
-Dr Parsons, "Found
-
-any work yet?"
-
-asked Dr. Parsons.
-
-"No, not yet, sir." replied
-
-Lemmy.
-
-"Well, keep trying boy,
-
-I know you'll find
-
-something somewhere."
-
-Lemmy was a white
-
-boy, with red hair,
-
-a blue baseball cap,
-
-buck teeth, freckles,
-
-overalls, a crewcut,
-
-too skinny, tall,
-
-brown dusty loafers.
-
-"Bye Dr. Parsons,"
-
-said Lemmy.
-
-"Bye Lemmy," said
-
-Dr. Parsons.
+Loads of nothing today and the spider passed away in its empty web
