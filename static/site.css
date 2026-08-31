@@ -133,14 +133,16 @@ textarea {
 
 .container {
     display: grid;
-    grid-template-areas: 
-        "header header header" 
-        "nav content side" 
-        "footer footer footer";
-    grid-template-columns: auto 1fr auto;
+    grid-template-areas:
+    "header header header"
+    "nav content side"
+    "footer footer footer";
+    grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto 1fr auto;
-    grid-gap: 0.2rem; 
+    grid-gap: 0.2rem;
     min-height: 100vh;
+
+    margin: 0 auto; /* Centers the block-level container horizontally */
 }
 
 .aside {
