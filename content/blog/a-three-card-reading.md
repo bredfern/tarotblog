@@ -1,10 +1,7 @@
----
-title: "A Three Card Reading"
-date: 2026-08-24
-categories: 
-  - "divination"
-coverImage: "header.png"
----
++++
+title = "A Three Card Reading"
+date = 2026-08-24
++++
 
 I decided to try a three card reading for "The Donald." What is intersting is how figuring out which cards are averse is really contextual. In this case his future is the Prince of Cups, which for women or gay men would be today is that someday when my Prince has come, in this case being averse it represents his lack of planning, his self-delusion, rather than emerging from the water he crashes headfirst into it.
 

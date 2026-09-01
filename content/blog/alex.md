@@ -1,14 +1,7 @@
----
-title: "Alex"
-date: 2026-08-25
-categories: 
-  - "diary"
-tags: 
-  - "1986"
-coverImage: "IMG_20260809_102103436-scaled-1.jpg"
----
-
-11/18/86
++++
+title = "Alex"
+date = 1986-11-18
++++
 
 Later that night Alex and I stayed up until 1:00 watching movies. 
 The next day I didn't do much except sleep and water my grandparents garden. 

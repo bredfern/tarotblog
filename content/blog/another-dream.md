@@ -1,14 +1,7 @@
----
-title: "Another Dream"
-date: 2026-08-25
-categories: 
-  - "diary"
-  - "margick"
-  - "poetry"
-coverImage: "IMG_20260809_101238636-scaled-1.jpg"
----
-
-3-18-05
++++
+title = "Another Dream"
+date = 2005-03-18
++++
 
 Alienated from fine society,
 
@@ -18,9 +11,7 @@ club, kicked out by bouncer
 
 for no shirt
 
-Dream
-
-$\\rightarrow$ more crowded, blocked
+Dream more crowded, blocked
 
 ~~by trees~~ by brambles
 

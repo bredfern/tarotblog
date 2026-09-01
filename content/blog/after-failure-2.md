@@ -1,13 +1,8 @@
 ---
-title: "After Failure"
-date: 2026-08-25
-categories: 
-  - "diary"
-  - "poetry"
-coverImage: "IMG_20260809_095727705-scaled-1.jpg"
+title = "After Failure"
+date = 1990-11-21
 ---
 
-11/21/90
 
 17,000 connect dots
 

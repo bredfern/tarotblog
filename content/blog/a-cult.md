@@ -1,86 +1,25 @@
----
-title: "Sunday Gnostic Mass"
-date: 2005-03-31
-categories: 
-  - "diary"
-  - "margick"
-coverImage: "IMG_20260809_101348004-scaled-1.jpg"
----
++++
+title = "Sunday Gnostic Mass"
+date = 2005-03-31
++++
 
-Dream taking
+Dream taking over responsibility for lapses. 
+Haven't been able to do any home rituals, 
+but will start doing LRBP in bathroom to keep it going.
 
-over responsibility for
+Banishing dagger arrived, have to email prev. owner to see that
+it wasn't used to cut any living flesh. I wonder if it needs
 
-lapses
+to be consecrated? to OSOGD, don't have to pay lodge fees
+cause I am long distance, need to find Scott on Theurgy &
+also look "the Cult of Tara" about Tibetan magick.
 
-Haven't been able to
+Lon Milo is OSOGD initiate so I must be on right path,
 
-do any home rituals,
+Seems like it doesn't, not sure.
 
-but will start doing
+Should move on to Crowley Star Ruby, because it has the
+new aeon names. I went to gnostic mass on Sunday
 
-LRBP in bathroom to keep
-
-it going –
-
-Banishing dagger arrived,
-
-have to email prev.
-
-owner to see that
-
-it wasn't used to
-
-cut any living flesh. I
-
-wonder if it needs
-
-to be consecrated?
-
-to OSOGD, don't
-
-have to pay lodge fees
-
-cause I long distance,
-
-need to find
-
-Scott on Theurgy &
-
-also look "the Cult of
-
-Tara" about Tibetan
-
-magick.
-
-Don Milo is OSOGD initiate
-
-so I must be on right
-
-path,
-
-Seems like it doesn't,
-
-not sure.
-
-Should move on to
-
-Crowley Star Ruby,
-
-because it has the
-
-new aeon names.
-
-Went to gnostic
-
-mass on Sunday
-
-Interesting experience.
-
-Some argue that
-
-a ritualized mass is uncreative,
-
-a rote re-run of
-
-Crowley's ritual, a cult
+Interesting experience. Some argue that
+a ritualized mass is uncreative, a rote re-run of Crowley's ritual

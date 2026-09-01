@@ -1,16 +1,10 @@
----
-title: "After Failure"
-date: 2026-08-25
-categories: 
-  - "poetry"
-coverImage: "IMG_20260809_095553641_HDR-scaled-1.jpg"
----
++++
+title = "After Failure"
+date = 1990-11-21
++++
 
-11/21/90
 
-17,000 connect dots
-
-In one 1991
+17,000 connect dots In one 1991
 
 calendar, I wonder
 

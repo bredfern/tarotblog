@@ -1,9 +1,7 @@
----
-title: "A Season of Insects"
-date: 2026-08-18
-categories: "diary"
-coverImage: "16465306_122781968241467_1760986254066843648_n_17849379709157496-1.jpg"
----
++++
+title = "A Season of Insects"
+date = 2026-08-18
++++
 
 This is the hottest time of year, and with the rising heat we're seeing a future that could be devoid of basic things like food and water.
 
