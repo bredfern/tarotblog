@@ -11,7 +11,7 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
-    background: url("logo.png") repeat 0 0;
+    background: url("bg.png") repeat 0 0;
     animation: bg-scrolling-reverse .92s linear infinite;
     line-height: 1.5;
     font-size: 100%;
@@ -170,6 +170,7 @@ main {
     grid-area: content;
     height: auto;
     padding: 0.6rem;
+    width: 30rem;
 }
 
 aside {
