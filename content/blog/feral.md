@@ -1,152 +1,50 @@
----
-title: "Feral"
-date: 2026-08-25
-categories: 
-  - "poetry"
-tags: 
-  - "1991"
-coverImage: "IMG_20260809_102216252_HDR-scaled-2.jpg"
----
++++
+title = "Feral"
+date = 1991-03-04
++++
 
-3/4/91
+Five million die for God, we could all be lost for Ideology.
 
-Five million die for
+For Gods to subtle to comprehend, but too real to ignore. Paranoia Paranoia, Paranoia, rushing through my veins, through my brain.
 
-Good,
-
-We could all be lost
-
-for Ideology.
-
-For Gods to subtle to
-
-Comprehend,
-
-But too real to ignore.
-
-Paranoia
-
-Paranoia, Paranoia,
-
-rushing through my veins
-
-through my brain
-
-Paranoia, Paranoia,
-
-daughter of infamy.
+Paranoia, Paranoia, daughter of infamy.
 
 Prerequisite to insanity.
 
-Is someone watching
+Is someone watching over me?
 
-over me?
+The voice, the voice from my throat cannot be mine,
 
-The voice, the voice
+I know make, shadow see me, till the end of time.
 
-from my throat
+Spider decided that it was as good a time as any to make a run for it,
 
-cannot be mine,
+Hesitantly, he scurried out onto the thick carpet, at first thinking that he had evaded notice, but he realized that he was wrong as the human stood up.
 
-I know make,
+Spider ran for the dark under the desk. 
 
-shadow see me, till
+The human grabbed the Tensor lamp, and flicked it on, light as lurid as death to the spider.
 
-the end of time.
+Spider tried to escape into the crack under the desk leg, but it was too late.
 
-Spider decided that it was as
+The human squashed spider with his book.
 
-good a time as any to make
+There's a voice in my throat, but it is not mine, crying out painful, alien an whole day.
 
-a run for it,
+She is there, but not there, she is with me but not.
 
-Hesitantly, he scurried
+The voice cries out but cannot speak for anyone.
 
-out onto the thick carpet,
-
-at first thinking that he
-
-had evaded notice, but he
-
-realized that he was
-
-wrong as the human stood up.
-
-Spider ran for the dark
-
-under the desk. The
-
-human grabbed the Tensor
-
-lamp, and flicked it on, light
-
-as lurid as death to the spider.
-
-Spider tried to escape into
-
-the crack under the desk
-
-leg, but it was too late.
-
-The human squashed spider
-
-with his book.
-
-98er
-
-There's a voice in my
-
-throat,
-
-But it is not mine,
-
-Crying out painful, alien
-
-an whole day.
-
-She is there, but not
-
-there, she is with
-
-me but not,
-
-The voice cries out
-
-but cannot speak
-
-for:
-
-She is only in my
-
-mind
-
-and I cannot touch
-
-her.
-
-Jack
+She is only in my mind and I cannot touch her.
 
 Jack be nimble
-
 Jack be quick,
-
 Jack jump over
-
 the candlestick.
 
-And if you get
+And if you get your butt burned Jack, Don't you cry, just be sad,
 
-your butt burned
-
-Jack,
-
-Don't you cry, cause
-
-Be sad,
-
-Its all part of
-
-Life.
+Its all part of Life.
 
 3/27/91
 

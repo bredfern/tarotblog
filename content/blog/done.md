@@ -1,10 +1,7 @@
----
-title: "Done"
-date: 2026-08-25
-categories: 
-  - "poetry"
-coverImage: "IMG_20260807_214720579-scaled-1.jpg"
----
++++
+title = "Done"
+date = 1990-09-25
++++
 
 9/25/90
 

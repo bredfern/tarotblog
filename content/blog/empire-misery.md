@@ -3,8 +3,6 @@ title = "An Empire of Misery"
 date = 2019-02-18
 +++
 
-# By Anonymous
-
 ## Chapter 1 - An Abomination
 
 So what happens when the robots and the Ai take your life away?
