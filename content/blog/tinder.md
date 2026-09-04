@@ -3,7 +3,7 @@ title = "Tinder"
 date = 2025-01-14
 +++
 
-Fog in brainj Like ceiling fan Wearing out With soot and dust
+Fog in brain Like ceiling fan Wearing out With soot and dust
 
 I saw the towel rise and whip around all by itself
 
