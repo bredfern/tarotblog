@@ -65,18 +65,18 @@ ul li {
 }
 
 .aside-content {
-    margin-top: 0.5rem;
-    margin-right: 0.75rem;
-    padding: 1rem;
+    padding: 2rem;
     color: #000;
     background-color: lightgray;
-    height: 14rem;
+    height: 16rem;
     text-align: left;
 }
+
 button {
   color: #000;
-  background: lightgray;
+  background: lightgreen;
   font-size: 100%;
+  padding:  0.25rem;
 }
 
 /* Fixed missing dot prefix on .aside-content selector */
@@ -84,24 +84,6 @@ button {
     color: #000;
     padding: 0.5rem;
     background-color: lightgray;
-}
-
-/* Keyframes */
-@-webkit-keyframes bg-scrolling-reverse {
-    100% { background-position: 3.125rem 3.125rem; }
-}
-
-/* Fixed missing space in keyframes name */
-@-o-keyframes bg-scrolling-reverse {
-    100% { background-position: 3.125rem 3.125rem; }
-}
-
-@keyframes bg-scrolling-reverse {
-    100% { background-position: 3.125rem 3.125rem; }
-}
-
-@keyframes bg-scrolling {
-    0% { background-position: 3.125rem 3.125rem; }
 }
 
 .centered {
@@ -155,6 +137,7 @@ textarea {
 
 .aside {
   grid-area: side;
+  width: 100%;
 }
 
 header {
@@ -172,7 +155,7 @@ nav {
     grid-area: nav;
     display: block;
     padding: 0.25rem;
-    margin-top: 0.5rem;
+    margin-top: 0;
 }
 
 main {
