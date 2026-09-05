@@ -38,7 +38,6 @@ a.blk, a:visited.blk, a:active.blk, .blk {
 
 .menu-item {
     text-decoration: none;
-    color: #fff;
 }
 
 a:hover {
@@ -65,12 +64,13 @@ ul li {
 }
 
 .aside-content {
+    margin-top: 0.5rem;
     margin-right: 0.75rem;
     padding: 1rem;
     color: #000;
     background-color: lightgray;
     height: auto;
-    max-height: 16rem;
+    max-height: 12rem;
 }
 button {
   color: #000;
@@ -120,10 +120,20 @@ button {
     display: none;
 }
 
-input[type=text], input[type=email], textarea, button {
+label {
+  align: left;
+  display: inline;
+}
+
+textarea {
     width: 100%;
     box-sizing: border-box;
     display: block;
+}
+
+h3 {
+  margin: 0;
+  padding: 0;
 }
 
 textarea {
@@ -143,8 +153,6 @@ textarea {
 }
 
 .aside {
-  padding: 0.5rem;
-  font-size: 1.5rem;
   grid-area: side;
 }
 
@@ -162,7 +170,8 @@ header {
 nav {
     grid-area: nav;
     display: block;
-    padding: .6rem;
+    padding: 0.25rem;
+    margin-top: 0.5rem;
 }
 
 main {
@@ -203,6 +212,4 @@ footer {
 
     }
 }
-
-
 

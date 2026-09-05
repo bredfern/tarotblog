@@ -3,7 +3,9 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Frater Brian, Universal Life Minister, Divination Expert, Poet and Composer">
+        <meta name="description" 
+          content="Frater Brian, Universal Life Minister, Divination Expert, Poet and Composer" 
+        />
         <link rel="shortcut icon" href="/favicon.ico" />
         <title>Frater Brians Divination Blog.</title>
         <link rel="stylesheet" type="text/css" rel="preload" as="style" href="/site.css">
@@ -24,26 +26,19 @@
             </nav>
             <main>
                 <div class="centered">
-                    <picture>
-                        <a href="/"
-                            ><img
-                                src="/redfern.svg"
-                                id="logo"
-                                alt="Brian Redfern"
-                        /></a>
-                    </picture>
+                  <a href="/"><img src="/me.webp" id="logo" alt="Brian"/></a>
                 </div>
                 <div>{% block content %} {% endblock %}</div>
             </main>
             <aside class="aside-content">
-              <h3 class="centered">Schedule a Reading</h3>
+              <h3 class="centered">Get My Help</h3>
               <form name="contact" netlify>
                 <p><label>Name <input type="text" name="name" /></label></p>
                 <p><label>Email <input type="email" name="email" /></label></p>
-                <p><button type="submit">Request Divination</button></p>
+                <p><button type="submit">Request A Session</button></p>
               </form>
             </aside>
-            <footer class="centered">&#169; 2026 Brian Redfern</footer>
+            <footer class="centered">&#169; 2026 Frater Brian</footer>
         </div>
     </body>
 </html>
