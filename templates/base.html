@@ -18,9 +18,9 @@
             <nav>
                 <div class="menu">
                     <ul>
-                      <li><a href="/diary" class="menu-item">Diary</a></li>
-                      <li><a href="/poems" class="menu-item">Poems</a></li>
-                      <li><a href="/tarot" class="menu-item">Predictions</a></li>
+                      <li> <a href="/" class="menu-item">About</a></li> 
+                      <li><a href="/blog" class="menu-item">Blog</a></li>
+                      <li><a href="/blog/tarot" class="menu-item">Predictions</a></li>
                     </ul>
                 </div>
             </nav>
@@ -28,6 +28,16 @@
                 <div class="centered">
                   <a href="/"><img src="/me.webp" id="logo" alt="Brian"/></a>
                 </div>
+                <div class="blog-sections centered">
+                  <a href="/blog">Home</a>
+                  <a href="/blog/poems">Poetry</a>  
+                  <a href="/blog/diary">Diary</a>
+                  <a href="/blog/tarot">Predictions</a> 
+                  <a href="/blog/stories">Stories</a>
+                  <a href="/blog/songs">Songs</a>
+                  <a href="/blog">About</a>
+                </div>
+                <hr>
                 <div>{% block content %} {% endblock %}</div>
             </main>
             <aside class="aside-content">
@@ -35,7 +45,7 @@
               <form name="contact" netlify>
                 <p><label>Name <input type="text" name="name" /></label></p>
                 <p><label>Email <input type="email" name="email" /></label></p>
-                <p><button type="submit">Request A Session</button></p>
+                <p><button type="submit">submit</button></p>
               </form>
             </aside>
             <footer class="centered">&#169; 2026 Frater Brian</footer>

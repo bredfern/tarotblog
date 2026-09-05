@@ -3,7 +3,8 @@
 }
 
 html {
-    font-family: "Avenir Next", "Avenir", sans-serif;
+  font-family: "Avenir Next", "Avenir", sans-serif;
+  font-size: 110%;
 }
 
 body {
@@ -69,16 +70,13 @@ ul li {
     padding: 1rem;
     color: #000;
     background-color: lightgray;
-    height: auto;
-    max-height: 12rem;
+    height: 14rem;
+    text-align: left;
 }
 button {
   color: #000;
   background: lightgray;
-}
-.aside-content {
-    text-align: center;
-    font-size: 1rem;
+  font-size: 100%;
 }
 
 /* Fixed missing dot prefix on .aside-content selector */
@@ -150,6 +148,9 @@ textarea {
     grid-template-rows: auto 1fr auto;
     grid-gap: 0.2rem;
     min-height: 100vh;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .aside {
