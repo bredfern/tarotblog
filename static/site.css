@@ -1,9 +1,26 @@
 * {
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'Scaver Med';
+    src: url('Scaver-Medium.woff2') format('woff2'),
+    url('Scaver-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scaver ExtBd';
+    src: url('Scaver-ExtraBold.woff2') format('woff2'),
+    url('Scaver-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
 
 html {
-  font-family: "Avenir Next", "Avenir", sans-serif;
+  font-family: "Scaver Med", "Avenir Next", "Avenir", sans-serif;
   font-size: 110%;
 }
 
@@ -74,7 +91,7 @@ ul li {
 
 button {
   color: #000;
-  background: gray;
+  background: #fff;
   font-size: 100%;
   padding:  0.25rem;
 }
