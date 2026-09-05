@@ -1,6 +1,5 @@
 {% extends "base.html" %} {% block content %}
 <h2>{{ section.title }}</h2>
-
 {% for page in paginator.pages %}
 <p>
     {{ page.date }} -
@@ -10,9 +9,9 @@
 
 <p class="pagination">
     {% if paginator.previous %}
-    <a class="previous blk" href="{{ paginator.previous }}">‹ Previous</a>
+    <a class="previous blk" href="{{ paginator.previous }}" style="float: left">‹ Previous</a>
     {% endif %} {% if paginator.next %}  
-    <a class="next blk" href="{{ paginator.next }}">Next ›</a>
+    <a class="next blk" href="{{ paginator.next }}" style="float: right">Next ›</a>
     {% endif %}
 </p>
 {% endblock content %}
