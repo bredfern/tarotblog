@@ -176,6 +176,8 @@ nav {
 }
 
 main {
+    color: #000;
+    background: lightgray;
     grid-area: content;
     height: auto;
     padding: 0.6rem;
