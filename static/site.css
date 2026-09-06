@@ -3,7 +3,7 @@
 }
 @font-face {
     font-family: 'Scaver Med';
-    src: url('Scaver-Medium.woff2') format('woff2'),
+    src: url('Scaver-Regular.woff') format('woff2'),
     url('Scaver-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
